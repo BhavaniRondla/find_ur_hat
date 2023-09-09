@@ -1,0 +1,9 @@
+{
+  "name": "find_ur_hat",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
